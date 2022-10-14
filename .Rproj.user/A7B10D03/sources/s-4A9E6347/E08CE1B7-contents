@@ -1,0 +1,3 @@
+library(blogdown)
+content/
+  content/post/2022-10-14-r-rmarkdown/index.Rmd
